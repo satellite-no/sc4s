@@ -1,0 +1,9 @@
+# Splunk HEC Token
+SPLUNK_HEC_URL=https://beda-spl-sh01:8088
+SPLUNK_HEC_TOKEN=3757f55e-d1b8-4ce8-ad2b-9ebb14d0775a
+
+# Uncomment the following line if using untrusted SSL certificates
+SC4S_DEST_SPLUNK_HEC_TLS_VERIFY=no
+
+# Optional Configs
+#SC4S_USE REVERSE_DNS=no

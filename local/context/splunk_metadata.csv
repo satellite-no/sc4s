@@ -1,0 +1,9 @@
+pfsense,index,firewall
+pfsense_filterlog,index,firewall
+ubiquiti_unifi,index,network
+ubiquiti_unifi_fw,index,firewall
+ubiquiti_unifi_link,index,network
+ubiquiti_unifi_sudo,index,network
+ubiquiti_unifi_switch,index,network
+ubiquiti_unifi_threat,index,ids
+ubiquiti_unifi_wireless,index,network
