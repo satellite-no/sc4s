@@ -1,3 +1,2 @@
 f_test_test,.splunk.index,"will_never_happen_index"
 f_test_test,fields.compliance,"pci"
-f_pfsense_filter,.splunk.sourcetype,pfsense:filterlog
